@@ -1,2 +1,2 @@
 # Alfred_OutlookDraft
-Create a new draft in Outlook for mac and set the subject as reminder. 
+Quickly create a new draft in Outlook for mac from Alfred, and set the subject. 
